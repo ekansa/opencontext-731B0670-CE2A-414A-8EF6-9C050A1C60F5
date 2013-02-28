@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="EE9999D9-F6D9-470F-3241-CE9E7DDE8EFA" ownedBy="731B0670-CE2A-414A-8EF6-9C050A1C60F5">
+  <arch:name>
+    <arch:string>Bone D1419-79</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_3_a7b4d7c2c</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>226A09F0-DC7F-4414-4F3E-3617D88BCD15</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/9FF045F4-FCF0-481C-6A53-FF3040D32A82">9FF045F4-FCF0-481C-6A53-FF3040D32A82</oc:propid>
+          <oc:var_label type="nominal">Archaeological Horizon</oc:var_label>
+          <oc:show_val>19</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>75722C08-528C-40A4-7D24-10416C030444</arch:variableID>
+          <arch:valueID>60F786BD-7825-4210-C74D-BCB808B3D3EE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DF6CDD27-9466-4D03-20EC-90B9CD8423A3">DF6CDD27-9466-4D03-20EC-90B9CD8423A3</oc:propid>
+          <oc:var_label type="nominal">Osteo Id</oc:var_label>
+          <oc:show_val>Humerus</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="75722C08-528C-40A4-7D24-10416C030444" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0079">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has anatomical identification</oc:label>
+              <oc:targetLink localType="property" localID="DF6CDD27-9466-4D03-20EC-90B9CD8423A3" localURI="http://opencontext.org/properties/DF6CDD27-9466-4D03-20EC-90B9CD8423A3" href="http://purl.obolibrary.org/obo/UBERON_0000976">
+                <oc:vocabulary href="http://uberon.org">UBERON (Uber Anatomy Ontology)</oc:vocabulary>
+                <oc:label>humerus</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>41A8E9D1-0D95-4274-1A39-7E98E0BD1840</arch:variableID>
+          <arch:valueID>F4950F4F-1B21-489A-81E0-94877F6A5142</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9DE7A779-3797-4B0A-ACC1-DA8840C7103F">9DE7A779-3797-4B0A-ACC1-DA8840C7103F</oc:propid>
+          <oc:var_label type="nominal">Taxonomic Id</oc:var_label>
+          <oc:show_val>Ovis orientalis</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="41A8E9D1-0D95-4274-1A39-7E98E0BD1840" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
+              <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
+              <oc:label>Has Biological Taxonomy</oc:label>
+              <oc:targetLink localType="property" localID="9DE7A779-3797-4B0A-ACC1-DA8840C7103F" localURI="http://opencontext.org/properties/9DE7A779-3797-4B0A-ACC1-DA8840C7103F" href="http://eol.org/pages/11021638">
+                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
+                <oc:label>Ovis orientalis</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5BDD47B6-6159-4AC8-C105-04ED58948CF5</arch:variableID>
+          <arch:valueID>8A62734C-A007-40F7-EBE9-E2DCFCB1A673</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/47F97F04-04E6-401C-E2D9-5B0B091CCF55">47F97F04-04E6-401C-E2D9-5B0B091CCF55</oc:propid>
+          <oc:var_label type="nominal">Articulation</oc:var_label>
+          <oc:show_val>Separate</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F96F58EF-1D74-4E68-0BD3-0FE60333BA93</arch:variableID>
+          <arch:valueID>F6D9A96F-BDA5-4698-CF12-3BC24FF15BEB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/21061AB9-3DCF-4388-68AF-815A2F989964">21061AB9-3DCF-4388-68AF-815A2F989964</oc:propid>
+          <oc:var_label type="nominal">Symmetry</oc:var_label>
+          <oc:show_val>Right</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>ADBA9F8A-B016-4085-50F9-CF34FB40ADE1</arch:variableID>
+          <arch:valueID>B0BA1CDD-C788-4F1C-C4C0-BEDE51D80F7E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AEF1D5F9-0D02-4444-EF8B-60749E6ACE86">AEF1D5F9-0D02-4444-EF8B-60749E6ACE86</oc:propid>
+          <oc:var_label type="nominal">Sex</oc:var_label>
+          <oc:show_val>Nonidentified</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="ADBA9F8A-B016-4085-50F9-CF34FB40ADE1" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0078">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has physiological sex determination</oc:label>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5B50960F-D221-4772-3EF4-0146D9CDE3B4</arch:variableID>
+          <arch:valueID>94E1DD48-556D-4FA6-93B3-1FF480D9A9F8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/47C5D806-1EC2-4745-88D6-C03DCA3A6711">47C5D806-1EC2-4745-88D6-C03DCA3A6711</oc:propid>
+          <oc:var_label type="nominal">Pathology</oc:var_label>
+          <oc:show_val>No pathology</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C5F0AE4D-22CE-493B-C2AD-EFBFF96B128B</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/B0E5039B-8F30-455E-A079-AB8FC1452021">B0E5039B-8F30-455E-A079-AB8FC1452021</oc:propid>
+          <oc:var_label type="integer">Number Of Fragments</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DE24E2BC-3CDE-4EDF-3F4D-35970E246DF4</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/D778A8B2-B57D-4AA4-8EB8-A05D84FB47FC">D778A8B2-B57D-4AA4-8EB8-A05D84FB47FC</oc:propid>
+          <oc:var_label type="integer">Number Of Elements</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AAE0518B-3B31-49DA-3E81-C497BB225A9D</arch:variableID>
+          <arch:valueID>798D89CA-2469-4516-14B7-7B5792CB7649</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1790D6AF-F11F-47F3-60D2-0BA33EFA6B07">1790D6AF-F11F-47F3-60D2-0BA33EFA6B07</oc:propid>
+          <oc:var_label type="nominal">Proximaldistal</oc:var_label>
+          <oc:show_val>Distal</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C76D0682-3A41-4D66-873B-15B5F314C951</arch:variableID>
+          <arch:valueID>D9DE42C2-A9A8-459A-E5F0-FC98DBAD116C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C4740DCF-0D2D-4EFA-CCB9-CF2731A16ABC">C4740DCF-0D2D-4EFA-CCB9-CF2731A16ABC</oc:propid>
+          <oc:var_label type="nominal">Fusion Proximal</oc:var_label>
+          <oc:show_val>Not applicable</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="C76D0682-3A41-4D66-873B-15B5F314C951" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0077">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has fusion character</oc:label>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>63B1568D-DD61-4C61-F8D9-FAFC5915FA0D</arch:variableID>
+          <arch:valueID>E7586CAA-1678-41B9-A4D8-563FF4D136F8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/BD15DDB5-435A-4F10-26D1-0670639CCED0">BD15DDB5-435A-4F10-26D1-0670639CCED0</oc:propid>
+          <oc:var_label type="nominal">Fusion Distal</oc:var_label>
+          <oc:show_val>Fused</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="63B1568D-DD61-4C61-F8D9-FAFC5915FA0D" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0077">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has fusion character</oc:label>
+              <oc:targetLink localType="property" localID="BD15DDB5-435A-4F10-26D1-0670639CCED0" localURI="http://opencontext.org/properties/BD15DDB5-435A-4F10-26D1-0670639CCED0" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0057">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+                <oc:label>Distal epiphysis fused</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>662B949E-4A87-4D52-8048-33A5D6D6FD55</arch:variableID>
+          <arch:valueID>C5C7109E-1EF3-44C5-FFA5-D0BAA5C9E6BF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/26F03462-B40B-43D0-8481-C2D546860B51">26F03462-B40B-43D0-8481-C2D546860B51</oc:propid>
+          <oc:var_label type="nominal">Completeness Of Element</oc:var_label>
+          <oc:show_val>&lt; 1/4 of estimated size</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5DDE3B3C-F16A-4625-5F9E-A09048FDC07D</arch:variableID>
+          <arch:valueID>229905B5-DF70-4166-24D3-EC09ABE7DB46</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/54749858-F921-4E0E-2811-51BC1FDB9C81">54749858-F921-4E0E-2811-51BC1FDB9C81</oc:propid>
+          <oc:var_label type="nominal">Completeness Of Portion</oc:var_label>
+          <oc:show_val>Complete</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0E2C0F18-C92A-4E3F-A77B-60F765FA7555</arch:variableID>
+          <arch:valueID>053B625E-912A-4B41-FB43-1361F1EBC774</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0B46935F-788A-49C5-879A-B7F8EA014646">0B46935F-788A-49C5-879A-B7F8EA014646</oc:propid>
+          <oc:var_label type="nominal">Fragmentation</oc:var_label>
+          <oc:show_val>End only</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C668E84B-4BE3-4687-14E1-075870CD6916</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">22.1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/14A78541-36D1-4360-973C-977BA56585F5">14A78541-36D1-4360-973C-977BA56585F5</oc:propid>
+          <oc:var_label type="decimal">Distal depth on medial side (L) Legge's TD</oc:var_label>
+          <oc:show_val>22.1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>015B7678-D26F-45F6-8D37-B6BAAA26CE99</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">16.1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/FF49E49A-01D6-4CE4-E1A7-6CF508A03122">FF49E49A-01D6-4CE4-E1A7-6CF508A03122</oc:propid>
+          <oc:var_label type="decimal">Height of the collum of the trochlea, central groove (HTC)</oc:var_label>
+          <oc:show_val>16.1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5DF2DD93-A350-433B-10A1-5F8328C064A5</arch:variableID>
+          <oc:annotations about="5DF2DD93-A350-433B-10A1-5F8328C064A5" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0007" name="BT" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">32.1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/572CFCFB-9C87-4944-5706-6C10B5133B43">572CFCFB-9C87-4944-5706-6C10B5133B43</oc:propid>
+          <oc:var_label type="decimal">Greatest breadth of the trochlea (BT)</oc:var_label>
+          <oc:show_val>32.1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>48EF14FB-4605-49D6-41C8-A4642B950501</arch:variableID>
+          <oc:annotations about="48EF14FB-4605-49D6-41C8-A4642B950501" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0009" name="Bd" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">36.7</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/14DB36C8-EB43-4865-D0F6-531E1D13E10D">14DB36C8-EB43-4865-D0F6-531E1D13E10D</oc:propid>
+          <oc:var_label type="decimal">Greatest breadth of the distal end (Bd)</oc:var_label>
+          <oc:show_val>36.7</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">76ACE7D8-D5B9-40BC-F848-E739DCFC4B58</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/76ACE7D8-D5B9-40BC-F848-E739DCFC4B58" cite="contributor">
+            <oc:name>Levent Atici</oc:name>
+            <oc:id>76ACE7D8-D5B9-40BC-F848-E739DCFC4B58</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/E465CC5E-FE3E-493E-CBA6-CD655ABE5310">
+        <oc:name>Karain B Cave</oc:name>
+        <oc:id>E465CC5E-FE3E-493E-CBA6-CD655ABE5310</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/6C7E6F33-6CB5-4815-FC8E-ECB738C7BB3D">
+        <oc:name>PI.2</oc:name>
+        <oc:id>6C7E6F33-6CB5-4815-FC8E-ECB738C7BB3D</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/66B51001-8FEF-420D-D94A-ABB0F85B7A98">
+        <oc:name>Square D14</oc:name>
+        <oc:id>66B51001-8FEF-420D-D94A-ABB0F85B7A98</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Zooarchaeology of Karain Cave B: Bone D1419-79 (Animal Bone)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-26</dc:date>
+    <dc:subject>Karain B Cave</dc:subject>
+    <dc:subject>Western Taurus Mountains</dc:subject>
+    <dc:subject>South West Anatolia</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Epipaleolithic</dc:subject>
+    <dc:subject>Terminal Pleistocene</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Faunal analysis</dc:subject>
+    <dc:subject>Foragers</dc:subject>
+    <dc:subject>Hunting</dc:subject>
+    <dc:subject>Caprines</dc:subject>
+    <dc:subject>Subsistence</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/76ACE7D8-D5B9-40BC-F848-E739DCFC4B58">Levent Atici</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/76ACE7D8-D5B9-40BC-F848-E739DCFC4B58">Levent Atici</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/EE9999D9-F6D9-470F-3241-CE9E7DDE8EFA</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/731B0670-CE2A-414A-8EF6-9C050A1C60F5">Zooarchaeology of Karain Cave B</oc:project_name>
+    <oc:pub_date>2013-02-26T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Zooarchaeology+of+Karain+Cave+B%3A+Bone+D1419-79+%28Animal+Bone%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Karain+B+Cave&amp;rft.subject=Western+Taurus+Mountains&amp;rft.subject=South+West+Anatolia&amp;rft.subject=Turkey&amp;rft.subject=Epipaleolithic&amp;rft.subject=Terminal+Pleistocene&amp;rft.subject=Zooarchaeology&amp;rft.subject=Faunal+analysis&amp;rft.subject=Foragers&amp;rft.subject=Hunting&amp;rft.subject=Caprines&amp;rft.subject=Subsistence&amp;rft.contributor=Levent+Atici&amp;rft.creator=Levent+Atici&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FEE9999D9-F6D9-470F-3241-CE9E7DDE8EFA</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.077589</oc:geo_lat>
+      <oc:geo_long>30.5708</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/E465CC5E-FE3E-493E-CBA6-CD655ABE5310">
+        <oc:source_name>Karain B Cave</oc:source_name>
+        <oc:source_id>E465CC5E-FE3E-493E-CBA6-CD655ABE5310</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-02-28T11:05:15-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/02/28 11:05:15</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(18K BCE - 17K BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-17850</oc:time_start>
+          <oc:time_finish>-17050</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/E465CC5E-FE3E-493E-CBA6-CD655ABE5310">
+            <oc:source_name>Karain B Cave</oc:source_name>
+            <oc:source_id>E465CC5E-FE3E-493E-CBA6-CD655ABE5310</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-02-19T16:54:50-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

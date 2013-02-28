@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="E465CC5E-FE3E-493E-CBA6-CD655ABE5310" ownedBy="731B0670-CE2A-414A-8EF6-9C050A1C60F5">
+  <arch:name>
+    <arch:string>Karain B Cave</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>manual</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>4431F980-CAA7-4271-F7B6-AB6E17773966</arch:variableID>
+          <arch:valueID>6EA32643-7FAC-41C2-299C-60E8516455FF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AF13BBF9-98BB-4A30-183A-1550818FEC58">AF13BBF9-98BB-4A30-183A-1550818FEC58</oc:propid>
+          <oc:var_label type="alphanumeric">External Reference</oc:var_label>
+          <oc:show_val type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <a href="http://en.wikipedia.org/wiki/Karain_Cave">Wikipedia article</a>
+            </div>
+          </oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="4431F980-CAA7-4271-F7B6-AB6E17773966" href="http://purl.org/dc/terms/references">
+              <oc:vocabulary href="http://concordia.atlantides.org/">Concordia</oc:vocabulary>
+              <oc:label>References</oc:label>
+              <oc:targetLink localType="property" localID="AF13BBF9-98BB-4A30-183A-1550818FEC58" localURI="http://opencontext.org/properties/AF13BBF9-98BB-4A30-183A-1550818FEC58" href="http://en.wikipedia.org/wiki/Karain_Cave">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+                <oc:label>Karain Cave</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">21842030-8BF9-494B-7B02-AE9BFF7F28CA</arch:docID>
+        <arch:docID type="resource" info="link">3342F7DF-5330-4B22-7A6D-7F9DC4048167</arch:docID>
+        <arch:docID type="resource" info="link">84CABFE8-A2EA-4437-F979-3F5100663209</arch:docID>
+        <arch:docID type="resource" info="link">6A0212A9-4355-454E-5B72-4B72BA0D0345</arch:docID>
+        <arch:docID type="resource" info="link">B14FD076-BE3B-4DE9-7058-7608AA46469D</arch:docID>
+        <arch:docID type="resource" info="link">5FBA0C14-B9DC-4B77-8E1A-ED03576A00CA</arch:docID>
+        <arch:docID type="resource" info="link">70D0A9EC-90A4-4B1A-B214-C99147227D97</arch:docID>
+        <arch:docID type="resource" info="link">BC60CF7E-D22C-4E73-6B6B-727FAA94443E</arch:docID>
+        <arch:docID type="resource" info="link">177E800B-FFBF-4886-0205-DC888EB989EF</arch:docID>
+        <arch:docID type="resource" info="link">DA007859-E769-4638-17BB-BB104F4F1351</arch:docID>
+        <arch:docID type="resource" info="link">96714B6C-C073-45E8-0A5B-633096CF1277</arch:docID>
+        <arch:docID type="resource" info="link">0E145AC4-01FF-4410-9408-C4BFEAA3E15A</arch:docID>
+        <arch:docID type="resource" info="link">338550F5-7574-4E6D-1A61-85D735C0A0B0</arch:docID>
+        <arch:docID type="resource" info="link">1B5FA1D1-FB63-43C4-CF0E-69ACF32952B3</arch:docID>
+        <arch:docID type="resource" info="link">753A5E64-D791-4F30-31E4-0F5EEE19B82B</arch:docID>
+        <arch:docID type="resource" info="link">D3C2192C-12DB-4EE8-4A9C-CAE4003E40BF</arch:docID>
+        <arch:docID type="resource" info="link">854611AB-20D7-4CDC-BF19-38677D0717C4</arch:docID>
+        <arch:docID type="resource" info="link">5C047E27-8AC1-49D4-B48E-F129F8772C71</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/21842030-8BF9-494B-7B02-AE9BFF7F28CA">
+            <oc:name>Karain B Entrance</oc:name>
+            <oc:id>21842030-8BF9-494B-7B02-AE9BFF7F28CA</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20B%20Entrance3.JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/3342F7DF-5330-4B22-7A6D-7F9DC4048167">
+            <oc:name>Karain B Entrance</oc:name>
+            <oc:id>3342F7DF-5330-4B22-7A6D-7F9DC4048167</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20B%20Entrance%202.JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/84CABFE8-A2EA-4437-F979-3F5100663209">
+            <oc:name>Karain B Entrance</oc:name>
+            <oc:id>84CABFE8-A2EA-4437-F979-3F5100663209</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20B%20Entrance%201.JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/6A0212A9-4355-454E-5B72-4B72BA0D0345">
+            <oc:name>Karain B excavation areas</oc:name>
+            <oc:id>6A0212A9-4355-454E-5B72-4B72BA0D0345</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20B%20excavation%20areas.JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/B14FD076-BE3B-4DE9-7058-7608AA46469D">
+            <oc:name>Karain B excavation areas 1</oc:name>
+            <oc:id>B14FD076-BE3B-4DE9-7058-7608AA46469D</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20B%20excavation%20areas%201.JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/5FBA0C14-B9DC-4B77-8E1A-ED03576A00CA">
+            <oc:name>Karain B excavation areas 2</oc:name>
+            <oc:id>5FBA0C14-B9DC-4B77-8E1A-ED03576A00CA</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20B%20excavation%20areas%202.JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/70D0A9EC-90A4-4B1A-B214-C99147227D97">
+            <oc:name>Karain B sampling</oc:name>
+            <oc:id>70D0A9EC-90A4-4B1A-B214-C99147227D97</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20B%20sampling.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/BC60CF7E-D22C-4E73-6B6B-727FAA94443E">
+            <oc:name>Karain B section drawing with dates</oc:name>
+            <oc:id>BC60CF7E-D22C-4E73-6B6B-727FAA94443E</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20B%20section%20drwaing%20with%20dates.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/177E800B-FFBF-4886-0205-DC888EB989EF">
+            <oc:name>Karain B site plan</oc:name>
+            <oc:id>177E800B-FFBF-4886-0205-DC888EB989EF</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20B%20site%20plan.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/DA007859-E769-4638-17BB-BB104F4F1351">
+            <oc:name>Outside Karain Cave</oc:name>
+            <oc:id>DA007859-E769-4638-17BB-BB104F4F1351</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20Cave%201.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/96714B6C-C073-45E8-0A5B-633096CF1277">
+            <oc:name>Karain and Okuzini Chronology Chart</oc:name>
+            <oc:id>96714B6C-C073-45E8-0A5B-633096CF1277</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/karain%20and%20Okuzini%20Chronology%201.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/0E145AC4-01FF-4410-9408-C4BFEAA3E15A">
+            <oc:name>Karain and Okuzini Chronology Chart</oc:name>
+            <oc:id>0E145AC4-01FF-4410-9408-C4BFEAA3E15A</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/karain%20and%20Okuzini%20Chronology%202.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/338550F5-7574-4E6D-1A61-85D735C0A0B0">
+            <oc:name>Karain Cave Outside View</oc:name>
+            <oc:id>338550F5-7574-4E6D-1A61-85D735C0A0B0</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20Cave2.JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/1B5FA1D1-FB63-43C4-CF0E-69ACF32952B3">
+            <oc:name>Karain Cave Outside View</oc:name>
+            <oc:id>1B5FA1D1-FB63-43C4-CF0E-69ACF32952B3</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Karain%20Cave3.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/753A5E64-D791-4F30-31E4-0F5EEE19B82B">
+            <oc:name>Karain Caves ABCD, Outside View</oc:name>
+            <oc:id>753A5E64-D791-4F30-31E4-0F5EEE19B82B</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/KarainABCD-2.JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/D3C2192C-12DB-4EE8-4A9C-CAE4003E40BF">
+            <oc:name>Karain Caves ABCD, Outside View</oc:name>
+            <oc:id>D3C2192C-12DB-4EE8-4A9C-CAE4003E40BF</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/KarainABCD.JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/854611AB-20D7-4CDC-BF19-38677D0717C4">
+            <oc:name>Location map</oc:name>
+            <oc:id>854611AB-20D7-4CDC-BF19-38677D0717C4</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Location%20map.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/5C047E27-8AC1-49D4-B48E-F129F8772C71">
+            <oc:name>Mount Katran Panoramic</oc:name>
+            <oc:id>5C047E27-8AC1-49D4-B48E-F129F8772C71</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/karain/thumbs/Mount_Katran_Panoramic.jpg</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <div>
+Please refer to the project description and the publications listed there for additional information about Karain (B) Cave.
+</div>
+            </div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/3EDF9C5B-72FA-45B3-9CB8-91D07AFEA4EA">
+        <oc:name>PI.1</oc:name>
+        <oc:id>3EDF9C5B-72FA-45B3-9CB8-91D07AFEA4EA</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6C7E6F33-6CB5-4815-FC8E-ECB738C7BB3D">
+        <oc:name>PI.2</oc:name>
+        <oc:id>6C7E6F33-6CB5-4815-FC8E-ECB738C7BB3D</oc:id>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Zooarchaeology of Karain Cave B: Karain B Cave (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-26</dc:date>
+    <dc:subject>Karain B Cave</dc:subject>
+    <dc:subject>Western Taurus Mountains</dc:subject>
+    <dc:subject>South West Anatolia</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Epipaleolithic</dc:subject>
+    <dc:subject>Terminal Pleistocene</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Faunal analysis</dc:subject>
+    <dc:subject>Foragers</dc:subject>
+    <dc:subject>Hunting</dc:subject>
+    <dc:subject>Caprines</dc:subject>
+    <dc:subject>Subsistence</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/76ACE7D8-D5B9-40BC-F848-E739DCFC4B58">Levent Atici</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/E465CC5E-FE3E-493E-CBA6-CD655ABE5310</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/731B0670-CE2A-414A-8EF6-9C050A1C60F5">Zooarchaeology of Karain Cave B</oc:project_name>
+    <oc:pub_date>2013-02-26T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Zooarchaeology+of+Karain+Cave+B%3A+Karain+B+Cave+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Karain+B+Cave&amp;rft.subject=Western+Taurus+Mountains&amp;rft.subject=South+West+Anatolia&amp;rft.subject=Turkey&amp;rft.subject=Epipaleolithic&amp;rft.subject=Terminal+Pleistocene&amp;rft.subject=Zooarchaeology&amp;rft.subject=Faunal+analysis&amp;rft.subject=Foragers&amp;rft.subject=Hunting&amp;rft.subject=Caprines&amp;rft.subject=Subsistence&amp;rft.creator=Levent+Atici&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FE465CC5E-FE3E-493E-CBA6-CD655ABE5310</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.077589</oc:geo_lat>
+      <oc:geo_long>30.5708</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/E465CC5E-FE3E-493E-CBA6-CD655ABE5310">
+        <oc:source_name>Karain B Cave</oc:source_name>
+        <oc:source_id>E465CC5E-FE3E-493E-CBA6-CD655ABE5310</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-02-28T13:06:15-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/02/28 13:06:15</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(18K BCE - 17K BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-17850</oc:time_start>
+          <oc:time_finish>-17050</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/E465CC5E-FE3E-493E-CBA6-CD655ABE5310">
+            <oc:source_name>Karain B Cave</oc:source_name>
+            <oc:source_id>E465CC5E-FE3E-493E-CBA6-CD655ABE5310</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-02-19T16:54:50-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

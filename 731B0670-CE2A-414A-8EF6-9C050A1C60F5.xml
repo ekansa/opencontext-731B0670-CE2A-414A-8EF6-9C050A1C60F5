@@ -210,5 +210,5 @@ of Life</a> <a href="http://eol.org/info/345">Computable Data Challenge</a> awar
     <oc:project_name href="http://opencontext.org/projects/731B0670-CE2A-414A-8EF6-9C050A1C60F5">Zooarchaeology of Karain Cave B</oc:project_name>
     <oc:pub_date>2013-02-26T00:00:00-07:00</oc:pub_date>
     <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Zooarchaeology+of+Karain+Cave+B%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Karain+B+Cave&amp;rft.subject=Western+Taurus+Mountains&amp;rft.subject=South+West+Anatolia&amp;rft.subject=Turkey&amp;rft.subject=Epipaleolithic&amp;rft.subject=Terminal+Pleistocene&amp;rft.subject=Zooarchaeology&amp;rft.subject=Faunal+analysis&amp;rft.subject=Foragers&amp;rft.subject=Hunting&amp;rft.subject=Caprines&amp;rft.subject=Subsistence&amp;rft.creator=Levent+Atici&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F731B0670-CE2A-414A-8EF6-9C050A1C60F5</oc:coins>
-  </oc:metadata>
+  <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M7CC0XMT">10.6078/M7CC0XMT</dc:identifier></oc:metadata>
 </arch:project>

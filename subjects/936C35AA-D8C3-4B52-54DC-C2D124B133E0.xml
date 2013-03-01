@@ -168,6 +168,14 @@
         </arch:property>
         <arch:property>
           <arch:variableID>C5036251-AB04-4EE1-8C5E-37A6535912AA</arch:variableID>
+          <oc:annotations about="C5036251-AB04-4EE1-8C5E-37A6535912AA" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0092" name="H" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
           <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">41.6</arch:decimal>
           <oc:propid href="http://opencontext.org/properties/C9626C8C-8271-4E39-7DDE-7833E19C19D8">C9626C8C-8271-4E39-7DDE-7833E19C19D8</oc:propid>
           <oc:var_label type="decimal">Height across dorsal to ventral arch (H)</oc:var_label>
@@ -175,6 +183,14 @@
         </arch:property>
         <arch:property>
           <arch:variableID>1471538E-8644-42D4-BC35-C4192E1668A5</arch:variableID>
+          <oc:annotations about="1471538E-8644-42D4-BC35-C4192E1668A5" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0096" name="BFcr" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
           <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">54.1</arch:decimal>
           <oc:propid href="http://opencontext.org/properties/F1F0F55E-B9F4-480F-16AB-532E73AB9C48">F1F0F55E-B9F4-480F-16AB-532E73AB9C48</oc:propid>
           <oc:var_label type="decimal">Greatest breadth of facies articularis cranialis (BFcr)</oc:var_label>
@@ -182,6 +198,14 @@
         </arch:property>
         <arch:property>
           <arch:variableID>49758244-1593-4568-9FA5-AD3652DD7D06</arch:variableID>
+          <oc:annotations about="49758244-1593-4568-9FA5-AD3652DD7D06" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0097" name="BFcd" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
           <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">45.9</arch:decimal>
           <oc:propid href="http://opencontext.org/properties/6377BA1E-08CC-4A61-4B16-186207177B31">6377BA1E-08CC-4A61-4B16-186207177B31</oc:propid>
           <oc:var_label type="decimal">Greatest breadth of facies articularis caudalis (BFcd)</oc:var_label>
@@ -293,10 +317,10 @@
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2013-02-28T07:52:56-07:00</oc:last_updated>
+    <oc:last_updated>2013-03-01T20:39:03-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2013/02/28 07:52:56</oc:view_time>
+      <oc:view_time>2013/03/01 20:39:03</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">

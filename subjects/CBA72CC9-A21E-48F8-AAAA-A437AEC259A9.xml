@@ -168,6 +168,14 @@
         </arch:property>
         <arch:property>
           <arch:variableID>C5036251-AB04-4EE1-8C5E-37A6535912AA</arch:variableID>
+          <oc:annotations about="C5036251-AB04-4EE1-8C5E-37A6535912AA" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0092" name="H" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
           <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">40.2</arch:decimal>
           <oc:propid href="http://opencontext.org/properties/1DDD6FA8-764D-470E-28EA-995B5CE1F402">1DDD6FA8-764D-470E-28EA-995B5CE1F402</oc:propid>
           <oc:var_label type="decimal">Height across dorsal to ventral arch (H)</oc:var_label>
@@ -175,6 +183,14 @@
         </arch:property>
         <arch:property>
           <arch:variableID>1471538E-8644-42D4-BC35-C4192E1668A5</arch:variableID>
+          <oc:annotations about="1471538E-8644-42D4-BC35-C4192E1668A5" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0096" name="BFcr" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
           <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">54</arch:decimal>
           <oc:propid href="http://opencontext.org/properties/A1BE3EF8-ADDD-4A9E-134A-6F4F4023CDBD">A1BE3EF8-ADDD-4A9E-134A-6F4F4023CDBD</oc:propid>
           <oc:var_label type="decimal">Greatest breadth of facies articularis cranialis (BFcr)</oc:var_label>
@@ -271,10 +287,10 @@
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2013-02-28T11:00:08-07:00</oc:last_updated>
+    <oc:last_updated>2013-03-01T20:39:22-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2013/02/28 11:00:08</oc:view_time>
+      <oc:view_time>2013/03/01 20:39:22</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">

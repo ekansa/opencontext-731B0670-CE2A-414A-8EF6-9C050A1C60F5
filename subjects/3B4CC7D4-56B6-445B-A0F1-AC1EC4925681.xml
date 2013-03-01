@@ -164,6 +164,14 @@
         </arch:property>
         <arch:property>
           <arch:variableID>1471538E-8644-42D4-BC35-C4192E1668A5</arch:variableID>
+          <oc:annotations about="1471538E-8644-42D4-BC35-C4192E1668A5" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0096" name="BFcr" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
           <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">52</arch:decimal>
           <oc:propid href="http://opencontext.org/properties/98DB8F8F-4929-4FAD-E50E-FF1CDEA6348C">98DB8F8F-4929-4FAD-E50E-FF1CDEA6348C</oc:propid>
           <oc:var_label type="decimal">Greatest breadth of facies articularis cranialis (BFcr)</oc:var_label>
@@ -171,6 +179,14 @@
         </arch:property>
         <arch:property>
           <arch:variableID>49758244-1593-4568-9FA5-AD3652DD7D06</arch:variableID>
+          <oc:annotations about="49758244-1593-4568-9FA5-AD3652DD7D06" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0097" name="BFcd" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
           <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">48.1</arch:decimal>
           <oc:propid href="http://opencontext.org/properties/2F72A6F9-8E8A-4151-D4B2-CE1196427E9A">2F72A6F9-8E8A-4151-D4B2-CE1196427E9A</oc:propid>
           <oc:var_label type="decimal">Greatest breadth of facies articularis caudalis (BFcd)</oc:var_label>
@@ -282,10 +298,10 @@
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2013-02-28T10:03:26-07:00</oc:last_updated>
+    <oc:last_updated>2013-03-01T20:39:08-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2013/02/28 10:03:26</oc:view_time>
+      <oc:view_time>2013/03/01 20:39:08</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">
